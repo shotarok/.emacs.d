@@ -1,0 +1,10 @@
+(setq el-get-user-package-directory (locate-user-emacs-file "el-get-init"))
+
+(el-get-bundle auto-complete)
+(el-get-bundle yasnippet)
+(el-get-bundle iedit)
+(el-get-bundle flymake-google-cpplint)
+(el-get-bundle flymake-cursor)
+(el-get-bundle google-c-style)
+(el-get-bundle emacs-powerline)
+(el-get-bundle helm)
