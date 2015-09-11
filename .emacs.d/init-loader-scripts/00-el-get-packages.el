@@ -10,3 +10,4 @@
 (el-get-bundle helm)
 (el-get-bundle cmake-mode)
 (el-get-bundle whitespace)
+(el-get-bundle git-commit-mode)
