@@ -9,3 +9,4 @@
 (el-get-bundle emacs-powerline)
 (el-get-bundle helm)
 (el-get-bundle cmake-mode)
+(el-get-bundle whitespace)

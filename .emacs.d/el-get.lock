@@ -1,3 +1,4 @@
-(setq el-get-lock-package-versions 'nil)
+(setq el-get-lock-package-versions
+      '((whitespace :checksum "b4fc298a738606792b83d2cf7e891b0f4d27941f")))
 (setq el-get-lock-locked-packages 'nil)
 (setq el-get-lock-unlocked-packages 'nil)
