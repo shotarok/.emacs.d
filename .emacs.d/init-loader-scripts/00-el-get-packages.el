@@ -12,3 +12,4 @@
 (el-get-bundle cmake-mode)
 (el-get-bundle whitespace)
 (el-get-bundle git-commit-mode)
+(el-get-bundle yaml-mode)
