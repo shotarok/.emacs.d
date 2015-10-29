@@ -1,0 +1,6 @@
+(require 'iedit)
+(define-key iedit-mode-map (kbd "C-m") 'iedit-toggle-selection)
+(define-key iedit-mode-map (kbd "M-p") 'iedit-expand-up-a-line)
+(define-key iedit-mode-map (kbd "M-n") 'iedit-expand-down-a-line)
+(define-key iedit-mode-map (kbd "M-h") 'iedit-restrict-function)
+(define-key iedit-mode-map (kbd "M-i") 'iedit-restrict-current-line)
