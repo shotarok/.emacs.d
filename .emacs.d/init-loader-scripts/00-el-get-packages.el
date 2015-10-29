@@ -8,6 +8,7 @@
 (el-get-bundle google-c-style)
 (el-get-bundle emacs-powerline)
 (el-get-bundle helm)
+(el-get-bundle helm-ag)
 (el-get-bundle cmake-mode)
 (el-get-bundle whitespace)
 (el-get-bundle git-commit-mode)

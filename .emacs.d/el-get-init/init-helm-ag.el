@@ -1,0 +1,5 @@
+(when (require 'helm-config nil t)
+  (helm-mode 1)
+  (global-set-key (kbd "M-g .") 'helm-ag)
+  (global-set-key (kbd "M-g ,") 'helm-ag-pop-stack)
+  (global-set-key (kbd "C-M-s") 'helm-ag-this-file))
