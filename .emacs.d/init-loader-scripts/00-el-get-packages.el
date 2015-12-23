@@ -13,3 +13,4 @@
 (el-get-bundle whitespace)
 (el-get-bundle git-commit-mode)
 (el-get-bundle yaml-mode)
+(el-get-bundle haskell-mode)

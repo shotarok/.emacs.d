@@ -1,4 +1,5 @@
 (setq el-get-lock-package-versions
-      '((whitespace :checksum "b4fc298a738606792b83d2cf7e891b0f4d27941f")))
+      '((haskell-mode :checksum "a5e89ffe4cde9d7b40243a6db6fd4b6190cff7a1")
+        (whitespace :checksum "b4fc298a738606792b83d2cf7e891b0f4d27941f")))
 (setq el-get-lock-locked-packages 'nil)
 (setq el-get-lock-unlocked-packages 'nil)
