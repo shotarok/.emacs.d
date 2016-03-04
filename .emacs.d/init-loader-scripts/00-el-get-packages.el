@@ -1,5 +1,4 @@
 (setq el-get-user-package-directory (locate-user-emacs-file "el-get-init"))
-
 (el-get-bundle auto-complete)
 (el-get-bundle yasnippet)
 (el-get-bundle iedit)
@@ -11,6 +10,6 @@
 (el-get-bundle helm-ag)
 (el-get-bundle cmake-mode)
 (el-get-bundle whitespace)
-(el-get-bundle git-commit-mode)
 (el-get-bundle yaml-mode)
 (el-get-bundle haskell-mode)
+(el-get-bundle magit)
