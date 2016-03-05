@@ -12,4 +12,5 @@
 (el-get-bundle whitespace)
 (el-get-bundle yaml-mode)
 (el-get-bundle haskell-mode)
+(el-get-bundle magit/with-editor)
 (el-get-bundle magit)
