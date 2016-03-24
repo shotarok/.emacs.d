@@ -14,3 +14,4 @@
 (el-get-bundle haskell-mode)
 (el-get-bundle magit/with-editor)
 (el-get-bundle magit)
+(el-get-bundle git-gutter)
