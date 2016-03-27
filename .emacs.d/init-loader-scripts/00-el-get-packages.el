@@ -1,4 +1,4 @@
-(setq el-get-user-package-directory (locate-user-emacs-file "el-get-init"))
+(setq el-get-user-package-directory (locate-user-emacs-file "init-el-get"))
 (el-get-bundle auto-complete)
 (el-get-bundle yasnippet)
 (el-get-bundle iedit)
