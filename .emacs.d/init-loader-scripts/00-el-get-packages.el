@@ -15,3 +15,4 @@
 (el-get-bundle magit/with-editor)
 (el-get-bundle magit)
 (el-get-bundle git-gutter)
+(el-get-bundle flyspell)
